@@ -1,0 +1,28 @@
+#FullName{
+    width: 99px;
+    height: 20px;
+    
+}
+#AdresBox{
+    width: 400px;
+    height: 20px;
+}
+div{
+    padding: 2px;
+}
+label{
+    font-size: 10px;
+}
+.DateBox{
+    width: 40px;
+    height: 20px;
+}
+#Mail{
+    width: 300px;
+    height: 20px;
+}
+.Titulo{
+    font-size: 20;
+    font-weight: bold;
+    
+}

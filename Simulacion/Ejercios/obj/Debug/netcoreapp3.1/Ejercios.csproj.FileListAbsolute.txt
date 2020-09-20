@@ -1,0 +1,13 @@
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.exe
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.deps.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.runtimeconfig.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.runtimeconfig.dev.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\bin\Debug\netcoreapp3.1\Ejercios.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.csprojAssemblyReference.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.AssemblyInfoInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.AssemblyInfo.cs
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.csproj.CoreCompileInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\Simulacion\Ejercios\obj\Debug\netcoreapp3.1\Ejercios.genruntimeconfig.cache

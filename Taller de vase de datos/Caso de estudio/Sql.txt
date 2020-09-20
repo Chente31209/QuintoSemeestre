@@ -1,0 +1,71 @@
+mysql> create database CFE;
+
+mysql> use CFE;
+
+mysql> create table paquete(
+    ->     Id int(11)  not null,
+    ->     contenido int(11) not null,
+    ->     Surtido int(11) not null,
+    ->      primary key (Id))
+    ->     engine=innodb;
+
+mysql> create table stock(
+    ->     Id int(11)  not null,
+    ->     Id_fusibles int(11) not null,
+    ->     Id_Paquete int(11) not null,
+    ->     Diponibles int(11) not null,
+    ->     primary key (Id))
+    ->     engine=innodb;
+
+mysql> alter table stock add foreign key(Id_Paquete)
+    -> references paquete(Id)
+    -> on delete cascade on update cascade;
+
+
+
+mysql> create table fusibles(
+    ->     Id VARCHAR(32) not null,
+    ->     capacidad VARCHAR(32) not null,
+    ->     id_cuadrilla int(11) not null,
+    ->      primary key (Id))
+    ->     engine=innodbvjhgv;
+
+mysql> create table fusibles(
+    ->     Id int(11) not null,
+    ->     capacidad VARCHAR(32) not null,
+    ->     id_cuadrilla int(11) not null,
+    ->      primary key (Id))
+    ->     engine=innodb;
+
+
+mysql> alter table stock add foreign key(Id_fusibles)
+    -> references fusibles(Id)
+    -> on delete cascade on update cascade;
+
+
+mysql> create table cuadrillas(
+    ->     id int(11) not null,
+    ->     capacidad VARCHAR(32) not null,
+    ->     Id_Stock int(11) not null,
+    ->     mes VARCHAR(32) not null,
+    ->     Cantidades int(16) not null,
+    ->     unidades int(16) not null,
+    ->      primary key (Id))
+    ->     engine=innodb;
+
+
+mysql> alter table fusibles add foreign key(id_cuadrilla)
+    -> references cuadrillas(id)
+    -> on delete cascade on update cascade;
+
+
+mysql> alter table cuadrillas add foreign key(Id_Stock)
+    -> references stock(Id)
+    -> ON UPDATE CASCADE ON DELETE CASCADE;
+
+
+mysql> alter table cuadrillas add foreign key(id_fusibles)
+    -> references  fusibles(Id)
+    -> ON UPDATE CASCADE ON DELETE CASCADE;
+
+
