@@ -1,15 +1,16 @@
 using System;
 using static System.Console;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Ejercios
 {
     public class aditivo 
     {
-        public aditivo()
-        {
-            
-        }
+       /// <summary>
+       /// Practia 1
+       /// </summary>
+       
         public void Procedimetos(double[] semillas, double M, int numeros)
         {
             List<double> Xi=new List<double>{};
@@ -20,9 +21,13 @@ namespace Ejercios
                 
             }
             int NumerosEnTotal = numeros+Xi.Count;
+            int semillasOriginales = Xi.Count;
             for (int i = Xi.Count; i < NumerosEnTotal ; i++)
             {
-                Xi.Add((Xi[i-1]+Xi[i-Xi.Count])%M);
+                var r=Xi[i-1];
+                var q=Xi[i-semillasOriginales];
+                var c=(r+q)%M;
+                Xi.Add(c);
                 
             }
             for (int i = 0; i < NumerosEnTotal; i++)
@@ -36,6 +41,7 @@ namespace Ejercios
                 WriteLine($"{index} Numero ->{item} Pseudo Numerp ->{Ri[index]}");
                 index++;
             }
+           
 
             
         }
