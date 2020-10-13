@@ -4,16 +4,14 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    {"name":"Python: Flask","type":"python","request":"launch","module":"flask","env":{"FLASK_APP":"app.py","FLASK_ENV":"development","FLASK_DEBUG":"0"},"args":["run","--no-debugger"],"jinja":true},
         {
             "name": ".NET Core Launch (console)",
-            
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Simulacion/Ejercios/bin/Debug/netcoreapp3.1/Ejercios.dll",
+            "program": "${workspaceFolder}/Ejercios/bin/Debug/netcoreapp3.1/Ejercios.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Simulacion/Ejercios",
+            "cwd": "${workspaceFolder}/Ejercios",
             "console": "internalConsole",
             "stopAtEntry": false
         },

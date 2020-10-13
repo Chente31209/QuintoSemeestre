@@ -1,5 +1,6 @@
 int Led = 2, Led13 = 11, tiempo = 100, contador = 0, i;
 int alto=12, bajo=13, LedAlto=2,LedBajo=3,valAlto,valBajo;
+int serial;
 
 void setup() {
   Serial.begin(9600);
@@ -12,9 +13,9 @@ void setup() {
 }
 
 void loop() {
-  valAlto=digitalRead(alto);
-  
-  if(valAlto==1){
+  //valAlto=digitalRead(alto);
+  serial=Serial.read();
+  if(serial=='a'){
   for (i=2; i<=11; i++){
     digitalWrite(i,HIGH);
      delay(tiempo);
@@ -26,8 +27,8 @@ void loop() {
   }
   
 
-  valBajo=digitalRead(bajo);
-   if(valBajo==0){
+  //valBajo=digitalRead(bajo);
+   if(serial=='b'){
   for (i=11; i>=2; i--){
     digitalWrite(i,HIGH);
      delay(tiempo);

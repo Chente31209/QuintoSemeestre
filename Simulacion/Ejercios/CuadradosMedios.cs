@@ -5,6 +5,7 @@ namespace Ejercios
 {
     public class CuadradosMedios
     {
+        //prctia 2
         public void Procedimeto(String Semilla, int numeros)
         {
             int D=Semilla.Length;

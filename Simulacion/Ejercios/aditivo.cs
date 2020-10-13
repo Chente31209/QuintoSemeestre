@@ -2,7 +2,7 @@ using System;
 using static System.Console;
 using System.Collections.Generic;
 using System.Linq;
-
+//practoca 1
 namespace Ejercios
 {
     public class aditivo 
@@ -43,7 +43,6 @@ namespace Ejercios
             }
            
 
-            
-        }
+                    }
     }
 }

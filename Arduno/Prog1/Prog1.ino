@@ -1,4 +1,4 @@
-int Led = 2, Led13 = 11, tiempo = 250, contador = 0;
+int Led =6, Led13 = 5, tiempo = 250, contador = 0;
 
 void setup() {
   Serial.begin(9600);
