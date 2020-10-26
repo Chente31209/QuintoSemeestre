@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EU9L5J6maduMxxA68vx4004e1xObHllfbJu00HjmUn/uOnfMYibl0wxslAFeQJT21aIhF2JrVsQeg165v48bfQ==",
+  "success": true,
+  "projectFilePath": "D:\\User\\Vicente\\Escuela\\Quinto semetre\\Repositoris\\QuintoSemeestre\\ITSZO.Simulaion\\ITSZO.Simulcion\\ITSZO.Simulacion.Library\\ITSZO.Simulacion.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chent\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

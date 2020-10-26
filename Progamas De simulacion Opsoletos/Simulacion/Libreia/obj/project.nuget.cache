@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0FJqkj+rFi3z7csa0wiUBTuEcM+by6P2SJ0FNSa0scw6bZkOFW9zsOPEyNRMrUKhTrNjiO9ohiDt17IU09DQA==",
+  "success": true,
+  "projectFilePath": "d:\\User\\Vicente\\Escuela\\Quinto semetre\\Repositoris\\QuintoSemeestre\\Simulacion\\Libreia\\Libreia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chent\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chent\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

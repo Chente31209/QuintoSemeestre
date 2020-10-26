@@ -1,0 +1,9 @@
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\bin\Debug\netstandard2.0\ITSZO.Simulacion.Library.deps.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\bin\Debug\netstandard2.0\ITSZO.Simulacion.Library.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\bin\Debug\netstandard2.0\ITSZO.Simulacion.Library.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.csprojAssemblyReference.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.AssemblyInfoInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.AssemblyInfo.cs
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.csproj.CoreCompileInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulacion.Library\obj\Debug\netstandard2.0\ITSZO.Simulacion.Library.pdb

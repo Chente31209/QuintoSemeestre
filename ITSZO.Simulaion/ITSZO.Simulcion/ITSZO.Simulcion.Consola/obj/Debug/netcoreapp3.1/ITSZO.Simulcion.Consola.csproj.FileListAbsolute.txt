@@ -1,0 +1,16 @@
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.exe
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.deps.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.runtimeconfig.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.runtimeconfig.dev.json
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulacion.Library.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\bin\Debug\netcoreapp3.1\ITSZO.Simulacion.Library.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.csprojAssemblyReference.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.AssemblyInfoInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.AssemblyInfo.cs
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.csproj.CoreCompileInputs.cache
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.csproj.CopyComplete
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.dll
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.pdb
+D:\User\Vicente\Escuela\Quinto semetre\Repositoris\QuintoSemeestre\ITSZO.Simulaion\ITSZO.Simulcion\ITSZO.Simulcion.Consola\obj\Debug\netcoreapp3.1\ITSZO.Simulcion.Consola.genruntimeconfig.cache
