@@ -7,8 +7,10 @@ namespace ITSZO.Simulcion.Consola
     {
         static void Main(string[] args)
         {
-            MGBlimBlim mGBlimBlim = new MGBlimBlim();
-            mGBlimBlim.showList();
+            double[] semillas = new double[9] { 65, 89, 98, 8, 6, 4, 89, 54, 56 };
+            MGAditivo mGAditivo = new MGAditivo();
+            mGAditivo.Procedimetos(semillas, 100, 7);
+            mGAditivo.showList();
         }
     }
 }

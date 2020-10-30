@@ -1,0 +1,13 @@
+#Decripcion{
+    font-size: small;
+}
+#Catehris{
+    background-color: crimson;
+}
+
+.abs-center {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    min-height: 1vh;
+  }
