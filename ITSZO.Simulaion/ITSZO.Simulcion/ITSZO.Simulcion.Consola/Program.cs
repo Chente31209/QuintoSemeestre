@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Serialization;
 using ITSZO.Simulacion.Library;
 
 namespace ITSZO.Simulcion.Consola
@@ -7,10 +8,16 @@ namespace ITSZO.Simulcion.Consola
     {
         static void Main(string[] args)
         {
-            double[] semillas = new double[9] { 65, 89, 98, 8, 6, 4, 89, 54, 56 };
-            MGAditivo mGAditivo = new MGAditivo();
-            mGAditivo.Procedimetos(semillas, 100, 7);
-            mGAditivo.showList();
+           
+            DistribuciónPoison poison = new DistribuciónPoison();
+            poison.Procedimeto();
+            
+           DistribuciónNormal normal = new DistribuciónNormal();
+           normal.Prosedimeto();
+
+           DistribuciónBinomial binomial = new DistribuciónBinomial();
+           binomial.Prosedimeto();
+           
         }
     }
 }
